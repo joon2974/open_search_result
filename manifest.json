@@ -9,7 +9,7 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["CB.js"]
+      "js": ["content.js"]
     }
   ],
 
