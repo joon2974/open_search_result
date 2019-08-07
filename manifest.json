@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "why didn't work",
-  "description": "please",
+  "name": "open search results",
+  "description": "chrome extension for opening search results",
   "version": "1.0",
 
   "content_scripts": [
